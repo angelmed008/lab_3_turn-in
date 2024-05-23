@@ -13,7 +13,7 @@ public class ArrayTests {
     assertArrayEquals(new int[]{4, 3, 2, 1}, input);
   }
 }
-# Failure-Inducing Input
+# Failure - NON Inducing Input
 ## JUnit test for the non-failure-inducing input:
 
 import static org.junit.Assert.*;
