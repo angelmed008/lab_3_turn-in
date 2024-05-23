@@ -33,5 +33,21 @@ public class ArrayTests {
 Below is a screenshot of the output of running the two tests. One test should pass (the non-failure-inducing input), and the other test should fail (the failure-inducing input).
 
 The Bug
+
+
 Before code change:
+
+
+
 ![Image](12.jpg)
+
+
+After code change:
+
+
+
+
+
+
+
+
