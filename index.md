@@ -178,6 +178,8 @@ This command searches for files modified more than 100 days ago within the ./tec
 
 
 
+sources:  https://unix.stackexchange.com/questions/179238/grep-inside-less
+
 
 
 
